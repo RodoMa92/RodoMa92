@@ -16,7 +16,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Europe/Rome
-          config_presets: "@lunar_blue"
+          config_presets: "@ocean-blue"
           retries: 3
           retries_delay: 300
           config_display: large
