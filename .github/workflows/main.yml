@@ -19,6 +19,7 @@ jobs:
           config_presets: "@lunar_blue"
           retries: 3
           retries_delay: 300
+          config_display: large
           plugin_activity: yes
           plugin_activity_filter: issue, pr, release, fork, review, ref/create
           plugin_achievements: yes
