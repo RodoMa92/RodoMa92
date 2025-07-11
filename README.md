@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+#### I've migrated my newest projects on CodeBerg, so check out [my profile there](https://codeberg.org/RodoMa92) as well!
 <!--
 **RodoMa92/RodoMa92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
