@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: RodoMa92/metrics@master
+      - uses: RodoMa92/metrics@main
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Europe/Rome
